@@ -1,4 +1,4 @@
-# Palm Vein Recognition
+# PulseGuard
 Biometric Authentication using Alexnet
 ###
 
